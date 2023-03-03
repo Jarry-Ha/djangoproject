@@ -15,6 +15,8 @@ Django Tutorial Code By Jarry
   - TDD 환경 만들기
 - https://velog.io/@may_soouu/Django-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%A0%95%EB%A6%AC
   - Django 메소드 정리
+- https://docs.djangoproject.com/ko/4.1/intro/tutorial06/
+- https://docs.djangoproject.com/en/4.1/intro/tutorial07/
 
 ## Shell Command
 
