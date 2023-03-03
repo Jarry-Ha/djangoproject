@@ -10,3 +10,4 @@ Django Tutorial Code By Jarry
 - https://docs.djangoproject.com/ko/4.1/intro/tutorial03/
 - https://docs.djangoproject.com/ko/4.1/intro/tutorial04/
   - Commit before section(Use generic views)
+  - Commit Using generic views
